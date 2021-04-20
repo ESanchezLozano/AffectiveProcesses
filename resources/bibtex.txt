@@ -1,6 +1,6 @@
-@inproceedings{author20XXtitle,
-  title={Please cite me},
-  author={Author, First and Author, Second and Author, Third},
-  booktitle={Conference},
-  year={20XX}
+@inproceedings{sanchez2021AP,
+  title={Affective Processes: stochastic modelling of temporal context for emotion and facial expression recognition},
+  author={Sanchez, Enrique and Tellamekala, Mani Kumar and Valstar, Michel and Tzimiropoulos, Georgios},
+  booktitle={CVPR},
+  year={2021}
 }
